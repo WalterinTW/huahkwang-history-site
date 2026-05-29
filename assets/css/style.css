@@ -95,11 +95,19 @@ a {
 }
 
 .site-title {
+  display: inline-flex;
+  align-items: center;
+  gap: 12px;
   font-weight: 700;
   letter-spacing: 0;
   text-decoration: none;
   color: var(--color-earth-dark);
   white-space: nowrap;
+}
+
+.site-logo {
+  width: 92px;
+  height: auto;
 }
 
 .site-nav {
@@ -581,7 +589,12 @@ a {
   }
 
   .site-title {
+    gap: 8px;
     font-size: 0.98rem;
+  }
+
+  .site-logo {
+    width: 78px;
   }
 
   .hero {

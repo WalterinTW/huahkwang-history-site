@@ -16,7 +16,7 @@
 ## A. 首頁 `index.html`
 
 ### Hero 區建議
-- `1-1_舍衛城祇樹給孤獨園聖地照.jpg`
+- `jetavana-sacred-site.jpg`
   - caption：舍衛城祇樹給孤獨園聖地一景
   - page：`index.html`
   - section：Hero
@@ -32,7 +32,7 @@
   - note：適合作為摘要區的小圖或細節圖。
 
 ### 創寺法師摘要區建議
-- `1-2_仁證法師法照.jpg`
+- `master-renzheng-portrait.jpg`
   - caption：仁證法師法相
   - page：`index.html`
   - section：創寺法師摘要區
@@ -40,7 +40,7 @@
   - note：首頁此區最適合用這張，人物辨識清楚。
 
 ### 籌建過程摘要區建議
-- `1-3_華光寺大殿內碑記.jpg`
+- `main-hall-inscription.jpg`
   - caption：華光寺大殿內建寺碑記
   - page：`index.html`
   - section：籌建過程摘要區
@@ -55,7 +55,7 @@
   - role：optional_supporting_image
   - note：若首頁需要補一張歷史感照片，可使用。
 
-- `1-3_華光寺佛塔舊照.jpg`
+- `huahkwang-stupa-archive.jpg`
   - caption：華光寺佛塔舊照
   - page：`index.html`
   - section：籌建過程摘要區（可選）
@@ -67,7 +67,7 @@
 ## B. 詳細頁 `history-background.html`
 
 ### 主圖
-- `1-1_舍衛城祇樹給孤獨園聖地照.jpg`
+- `jetavana-sacred-site.jpg`
   - caption：舍衛城祇樹給孤獨園聖地一景
   - page：`history-background.html`
   - section：頁首主圖 / 首圖
@@ -94,7 +94,7 @@
 ## C. 詳細頁 `founding-monk.html`
 
 ### 主圖
-- `1-2_仁證法師法照.jpg`
+- `master-renzheng-portrait.jpg`
   - caption：仁證法師法相
   - page：`founding-monk.html`
   - section：頁首主圖 / 首圖
@@ -114,7 +114,7 @@
 ## D. 詳細頁 `construction-process.html`
 
 ### 主圖
-- `1-3_華光寺大殿內碑記.jpg`
+- `main-hall-inscription.jpg`
   - caption：華光寺大殿內建寺碑記
   - page：`construction-process.html`
   - section：頁首主圖 / 首圖
@@ -122,7 +122,7 @@
   - note：本頁最主要的代表圖，最能呼應籌建過程。
 
 ### 輔助圖
-- `1-3_華光寺佛塔舊照.jpg`
+- `huahkwang-stupa-archive.jpg`
   - caption：華光寺佛塔舊照
   - page：`construction-process.html`
   - section：正文前半段或圖片區
@@ -136,12 +136,12 @@
   - role：supporting_image
   - note：適合搭配文字提到碑文、建寺記錄時使用。
 
-- `1-3_建寺捐款芳名錄-compressed.jpg`
+- `donation-plaque-compressed.jpg`
   - caption：建寺捐款芳名錄碑
   - page：`construction-process.html`
   - section：正文中後段或圖片區
   - role：supporting_image
-  - note：適合用來呼應十方護持與募化歷程；正式頁使用壓縮版，原始高解析圖保留於 `assets/images/1-3_建寺捐款芳名錄.jpg`。
+  - note：適合用來呼應十方護持與募化歷程；正式頁使用壓縮版，原始高解析圖保留於 `assets/images/donation-plaque-original.jpg`。
 
 - `1-3_華光寺舍利塔.jpg`
   - caption：華光寺舍利塔
@@ -150,7 +150,7 @@
   - role：supporting_image
   - note：可作為寺院建築補充圖。
 
-- `1-3_護持者紀念浮雕.jpg`
+- `benefactor-memorial-relief.jpg`
   - caption：仁證法師、李俊承居士與陳江輝煌居士浮雕紀念像
   - page：`construction-process.html`
   - section：正文後段或圖片區
@@ -181,9 +181,9 @@
 
 ### 3. 圖片角色優先順序
 若 Codex 需要取捨，優先使用：
-1. `1-1_舍衛城祇樹給孤獨園聖地照.jpg`
-2. `1-2_仁證法師法照.jpg`
-3. `1-3_華光寺大殿內碑記.jpg`
+1. `jetavana-sacred-site.jpg`
+2. `master-renzheng-portrait.jpg`
+3. `main-hall-inscription.jpg`
 
 ---
 
@@ -197,6 +197,6 @@
 
 ## G. 給 Codex 的簡短提醒
 - 首頁用圖要節制，不要塞太多
-- 首頁 Hero 以 `1-1_舍衛城祇樹給孤獨園聖地照.jpg` 優先
+- 首頁 Hero 以 `jetavana-sacred-site.jpg` 優先
 - 詳細頁首圖依各頁對應主題使用
 - 若需要補充圖，依本檔案的 page 與 section 建議使用

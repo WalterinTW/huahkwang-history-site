@@ -34,5 +34,5 @@ python3 -m http.server
 
 ## 維護注意事項
 - `docs/` 內的 `final_copy_*.md` 是目前網站文案來源候選，刪除前請先確認。
-- 圖片檔名含中文，若未來要調整路徑，需同步更新 HTML 與 `image_mapping.md`。
+- 圖片檔名已整理為英文安全檔名；若未來要調整路徑，需同步更新 HTML 與 `image_mapping.md`。
 - 不要提交 `.DS_Store` 等作業系統暫存檔。

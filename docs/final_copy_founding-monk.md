@@ -47,7 +47,7 @@
 ## 圖片配置建議
 
 ### 主圖建議
-- `1-2_仁證法師法照.jpg`
+- `master-renzheng-portrait.jpg`
   - caption：仁證法師法相
 
 ### 輔助圖片建議

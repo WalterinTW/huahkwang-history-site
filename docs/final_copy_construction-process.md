@@ -51,23 +51,23 @@
 ## 圖片配置建議
 
 ### 主圖建議
-- `1-3_華光寺大殿內碑記.jpg`
+- `main-hall-inscription.jpg`
   - caption：華光寺大殿內建寺碑記
 
 ### 輔助圖片建議
-- `1-3_華光寺佛塔舊照.jpg`
+- `huahkwang-stupa-archive.jpg`
   - caption：華光寺佛塔舊照
 
 - `1-3_建寺碑文正文.jpg`
   - caption：華光寺建寺碑文正文
 
-- `1-3_建寺捐款芳名錄-compressed.jpg`
+- `donation-plaque-compressed.jpg`
   - caption：建寺捐款芳名錄碑
 
 - `1-3_華光寺舍利塔.jpg`
   - caption：華光寺舍利塔
 
-- `1-3_護持者紀念浮雕.jpg`
+- `benefactor-memorial-relief.jpg`
   - caption：仁證法師、李俊承居士與陳江輝煌居士浮雕紀念像
 
 ---

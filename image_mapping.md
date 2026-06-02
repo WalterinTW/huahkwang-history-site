@@ -136,12 +136,12 @@
   - role：supporting_image
   - note：適合搭配文字提到碑文、建寺記錄時使用。
 
-- `1-3_建寺捐款芳名錄.jpg`
+- `1-3_建寺捐款芳名錄-compressed.jpg`
   - caption：建寺捐款芳名錄碑
   - page：`construction-process.html`
   - section：正文中後段或圖片區
   - role：supporting_image
-  - note：適合用來呼應十方護持與募化歷程。
+  - note：適合用來呼應十方護持與募化歷程；正式頁使用壓縮版，原始高解析圖保留於 `assets/images/1-3_建寺捐款芳名錄.jpg`。
 
 - `1-3_華光寺舍利塔.jpg`
   - caption：華光寺舍利塔

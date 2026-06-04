@@ -97,12 +97,21 @@ a {
 .site-title {
   display: inline-flex;
   align-items: center;
-  gap: 12px;
+  gap: 18px;
   font-weight: 700;
   letter-spacing: 0;
   text-decoration: none;
   color: var(--color-earth-dark);
   white-space: nowrap;
+}
+
+.site-title span {
+  display: inline-flex;
+  align-items: center;
+  min-height: 2.15em;
+  color: var(--color-earth-dark);
+  font-size: 1.18rem;
+  line-height: 1.2;
 }
 
 .site-logo {
@@ -589,8 +598,12 @@ a {
   }
 
   .site-title {
-    gap: 8px;
-    font-size: 0.98rem;
+    gap: 12px;
+  }
+
+  .site-title span {
+    min-height: 1.9em;
+    font-size: 1.05rem;
   }
 
   .site-logo {

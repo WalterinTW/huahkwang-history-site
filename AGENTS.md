@@ -167,6 +167,18 @@ Guidelines:
 - do not over-engineer
 - do not create unnecessary build tooling unless explicitly requested
 
+## Playwright checking rules
+- This is the Huah Kwang Temple static website project.
+- After modifying HTML, CSS, or JS, prioritize running the Playwright checks.
+- After each website change, check desktop and mobile layouts.
+- Confirm there is no horizontal overflow.
+- Confirm the browser console has no errors.
+- Confirm the main navigation links remain clickable.
+- Keep the site style simple, restrained, dignified, and calm.
+- Do not significantly refactor the website structure unless Walter explicitly asks.
+- Do not delete existing content or images unless Walter explicitly asks.
+- After finishing changes, list the files changed and explain how Walter can test them.
+
 ## What done means
 The task is complete only if:
 1. all four pages exist and render correctly

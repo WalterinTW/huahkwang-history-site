@@ -246,7 +246,8 @@ a {
 }
 
 .home-link-button:hover,
-.home-link-button:focus-visible {
+.home-link-button:focus-visible,
+.home-link-button:active {
   color: var(--color-surface);
   background: var(--color-earth-dark);
 }
